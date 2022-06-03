@@ -11,7 +11,7 @@
 /uit-books-client/build
 
 # misc
-/backend/config/.env
+/uit-books-client/.env
 /uit-books-client/.DS_Store
 /uit-books-client/.env.local
 /uit-books-client/.env.development.local
