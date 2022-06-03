@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/uit-books-client/node_modules
+/uit-books-client/.pnp
+/uit-books-client/.pnp.js
+
+# testing
+/uit-books-client/coverage
+
+# production
+/uit-books-client/build
+
+# misc
+/backend/config/.env
+/uit-books-client/.DS_Store
+/uit-books-client/.env.local
+/uit-books-client/.env.development.local
+/uit-books-client/.env.test.local
+/uit-books-client/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
